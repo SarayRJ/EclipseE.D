@@ -7,6 +7,7 @@ public class Persona {
 	private String apellido;
 	private int edad;
 	private boolean haPagado;
+	/*Comentario para probar lo de renovar en commit*/
 	
 	
 	/*Constructor vacio o constructor por defecto de la clase de arriba, asignar los atributos que da java por defecto*/
